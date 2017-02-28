@@ -1,5 +1,5 @@
-#Birthday simulation
-#What is the probability NONE of the N people in a room sharing a birthday
+# Random Birthday Simulation
+# What is the probability that NONE of the N people in a room shares a birthday
 
 N <- 0
 samples <- 0;
