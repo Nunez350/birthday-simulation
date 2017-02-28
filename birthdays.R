@@ -24,6 +24,8 @@ for(j in 10:100){
 
 }
 
-plot(samples,prob.nodub, main="Birthday Simulation", xlab = "Sample Size", ylab = "Probability of no Duplicates", las =1)
+plot(samples,prob.nodub, main="Birthday Simulation", xlab = "Sample Size", ylab = "Probability of no Duplicates", las =1,ylim = 0:1)
+
+
 
 
